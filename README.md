@@ -1,2 +1,3 @@
-# confd-concat-plugin
-strings.Concat template function
+# confd-contains-plugin
+
+strings.Contains template plugin
